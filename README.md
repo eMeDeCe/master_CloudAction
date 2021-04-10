@@ -1,5 +1,4 @@
-# master_CloudAction
-Practica de despliegue automático con git actions
+# Practicas Cloud Action de Master Lemon Code 8 2020/2021
 
 Desplegar en Github Pages de forma manual:
 
